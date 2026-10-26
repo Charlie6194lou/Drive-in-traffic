@@ -1,0 +1,19 @@
+Drive in Traffic (web) - sound credits
+Every sound is free to use anywhere, including commercially (CC0 / public domain or made for this game).
+
+Made for this game (synthesised, original):
+  eng0-3.wav (motorbike engine at 4 rpm levels), road.wav (tyre roar), whoosh1/2.mp3 (car passing close),
+  chime.mp3 (near-miss bell), cash.mp3 (money sparkle), nitro.mp3 (boost), shift.mp3 (gear change)
+
+CC0 (public domain):
+  crash.mp3       mix of "Crash Collision" by qubodup (https://opengameart.org/content/crash-collision)
+                  + Kenney "Impact Sounds" impactMetal_heavy_000 and impactGlass_heavy_002 (https://kenney.nl/assets/impact-sounds)
+  click.mp3       Kenney "UI Audio" click3                        https://kenney.nl/assets/ui-audio
+  buy.mp3         Kenney "Interface Sounds" confirmation_002      https://kenney.nl/assets/interface-sounds
+  error.mp3       Kenney "Interface Sounds" error_004             https://kenney.nl/assets/interface-sounds
+  coins.mp3       Kenney "RPG Audio" handleCoins                  https://kenney.nl/assets/rpg-audio
+  success.mp3     Kenney "Music Jingles" jingles_STEEL01          https://kenney.nl/assets/music-jingles
+  wind.mp3        "Wind whoosh loop"                              https://opengameart.org/content/wind-whoosh-loop
+  horn.mp3        "Car sound effects pack" (car_horn)             https://opengameart.org/content/car-sound-effects-pack-low-quality
+  music_race.mp3  "Hyper Ultra-Racing" by Pixelsphere (CC0)       https://opengameart.org/content/hyper-ultra-racing
+  music_lobby.mp3 "Lost in the Snow Wave" (CC0, 47 s - 109 s)      https://opengameart.org/content/lost-in-the-snow-wave
